@@ -50,7 +50,7 @@ O objetivo foi criar um recurso do Azure Data Factory e compreender como organiz
 
 A implantação do Azure Data Factory foi concluída com sucesso e apresentou o status `OK`.
 
-![Implantação concluída](imagens/implantacao-concluida.jpg)
+![Implantação concluída](implantacao-data-factory.png)
 
 ## Aprendizados
 
